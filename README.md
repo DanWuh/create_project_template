@@ -55,3 +55,7 @@ Now, you can run the script simply by typing in all directories that you have su
 
 > ct
 
+## Modify
+The folder structure depends on your needs, it is not a fixed structure, so make changes accordingly. 
+
+I would love to hear your comments and suggestions.
