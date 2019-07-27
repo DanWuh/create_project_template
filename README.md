@@ -1,6 +1,6 @@
 # Create Template
 
-This is a generic project template generator that prepares the following folder structure for your academic projects:
+This script provides a generic project template with the following folder structure for your academic projects:
 
 ```
 Project/
@@ -32,6 +32,7 @@ Project/
 |-- README.md
 ```
 
+# Usage
 ## The hard way
 To create this project structure put 'create_template.py' in the directory you want to create the project and run:
 
@@ -40,7 +41,7 @@ To create this project structure put 'create_template.py' in the directory you w
 
 
 ## The easy way
-To avoid dealing with the location of the script, a better option is to create an alias in your .bash_profile that points to its location. To do this, you need to open .bash_profile using your favorite editor like emacs or vim but for most users it is easier with 'nano':
+To avoid dealing with the location of the script everytime you want to create a project, a better option is to create an alias of the python script in your .bash_profile that points to its location. To do this, you need to open .bash_profile using your favorite editor like emacs or vim but for most users it is easier with 'nano':
 
 > nano ~/.bash_profile
 
@@ -55,7 +56,7 @@ Now, you can run the script simply by typing in all directories that you have su
 
 > ct
 
-## Modify
+# Modify
 The folder structure depends on your needs, it is not a fixed structure, so make changes accordingly. 
 
 I would love to hear your comments and suggestions.
