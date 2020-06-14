@@ -1,0 +1,310 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"project",
+				"project_name"
+			],
+			[
+				"di",
+				"div\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "code/create_template.py",
+			"settings":
+			{
+				"buffer_size": 2829,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "import os\nimport sys\nimport datetime\n\n\n\ndef main():\n\tprint(\"hello world\");\n\nif __name__ == \"__main__\":\n    main()",
+			"file": "code/testScript.py",
+			"file_size": 123,
+			"file_write_time": 132366470479367567,
+			"settings":
+			{
+				"buffer_size": 113,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: $… = array (…)"
+			],
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/i_hat/Documents/git/create_project_template"
+	],
+	"file_history":
+	[
+		"/C/Users/i_hat/Documents/pythonScripts/create_template.py",
+		"/C/Users/i_hat/Documents/git/create_project_template/code/fish/README.md",
+		"/C/Users/i_hat/Documents/git/create_project_template/code/create_template.py",
+		"/C/Users/i_hat/Documents/git/create_project_template/exe/maya_project.exe",
+		"/C/Users/i_hat/Perforce/root_dwSurfacePro_assets/assets/vehicleAir/createProject.exe",
+		"/C/Users/i_hat/Downloads/matterpak_TL-Circle-Case-Study/1-S-Market-Mech-Penthouse.mtl",
+		"/C/Users/i_hat/Documents/maya/2020/p4config",
+		"/C/Users/i_hat/Documents/maya/scripts/P4.py",
+		"/C/Users/i_hat/Documents/maya/scripts/perforce/PerforceUtils/SetupConnection.py",
+		"/C/Users/i_hat/Documents/git/P4VFX/install.py",
+		"/C/Users/i_hat/Desktop/.myrc",
+		"/C/Users/i_hat/Perforce/root_dwSurfacePro_assets/assets/vhHotAirBalloon/m_asset/workspace.mel",
+		"/D/Users/VR-Test01/NTUSER.DAT",
+		"/C/Users/i_hat/Downloads/Toolkit_Bundle/UVToolkit.py",
+		"/C/Users/i_hat/AppData/Local/Xsens/Firmware Updater/fwu_support.log",
+		"/C/Users/i_hat/AppData/Roaming/Autodesk/HIKCharacterizationTool5/template/marvelChar.xml",
+		"/C/Users/i_hat/AppData/Roaming/Autodesk/HIKCharacterizationTool5/template/millBiped_Marvel_DCM.xml",
+		"//zuul/home/macBack/saved/mayaShared/env/configs/default/scripts/export.mel",
+		"//zuul/home/work/maya/mayaShared/env/configs/default/scripts/createBoatRig.py",
+		"//zuul/home/work/maya/mayaShared/env/configs/default/scripts/moveBoatsOnSurface.py",
+		"//zuul/home/work/maya/mayaShared/env/configs/default/scripts/superSimpleBoatScript.py",
+		"//zuul/home/work/maya/mayaShared/env/configs/default/scripts/camMuxer/mergeAnimation.py",
+		"//zuul/home/work/maya/mayaShared/env/configs/default/plugins/tapeMeasureNode.py",
+		"//zuul/home/work/maya/mayaShared/env/configs/default/plugins/closestPointOnCurve.py",
+		"//zuul/home/work/maya/mayaShared/env/configs/default/modules/massive/mayaAPF_Export.py",
+		"//zuul/home/work/maya/mayaShared/env/configs/default/modules/animation/scanm/core.py",
+		"//zuul/home/macBack/saved/mayaShared/env/configs/default/modules/scanlineAPI.py",
+		"//zuul/homes/danw/macBack/saved/junk/handPoses.py",
+		"/C/Users/i_hat/AppData/Local/Temp/firmwareupdater_gui64.DMP",
+		"//zuul/homes/danw/macBack/saved/junk/camxport.cam",
+		"//zuul/homes/danw/macBack/saved/junk/batchTakeRender.py",
+		"//zuul/homes/danw/macBack/saved/Unity Projects/blessing/maxx.py",
+		"//zuul/homes/danw/macBack/saved/junk/ExportAPF.py",
+		"//zuul/homes/danw/macBack/saved/Unity Projects/blessing/blessing.py",
+		"//zuul/homes/danw/macBack/saved/junk/selecter.py",
+		"/C/Users/i_hat/AppData/Local/Temp/Rar$DIa12096.35372/README.md",
+		"/D/color_two.prm",
+		"/C/Golaem/Golaem-6.4.4-Maya2018/glmCrowd.mod",
+		"/C/Users/i_hat/AppData/Local/Temp/fz3temp-2/error_log",
+		"/C/Users/i_hat/Downloads/functions.php",
+		"/C/Users/i_hat/NTUSER.DAT"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"print"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "code/create_template.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2829,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								934,
+								934
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 650.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "code/testScript.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 113,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								113,
+								113
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "create_project_template.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 235.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
