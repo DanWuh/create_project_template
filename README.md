@@ -4,31 +4,10 @@ This script provides a generic project template with the following folder struct
 
 ```
 Project/
-|-- writing/
-|   |-- figures
-|   |-- bib
-|   |-- notes
-|
-|--literature
-|   |-- papers
-|   |-- notes
-|
-|-- statistics/
-|   |-- data/
-|   |   |-- data.csv
-|   |-- figures/
-|   |-- notes
-|
-|-- materials
-|   |-- sounds/
-|   |-- texts/
-|   |-- analysis/
-|   |-- notes
-|
-|-- scripts
-|   |-- code
-|   |-- notes
-|
+|-- folders/
+|   |-- subfolderA
+|   |-- subfolderB
+|   |-- subfolderC
 |-- README.md
 ```
 
